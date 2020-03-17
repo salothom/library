@@ -1,0 +1,39 @@
+
+
+.bookstack{
+    margin-bottom: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top:1px;
+    border-top-right-radius:  2% 90%;
+    border-top-left-radius:  2% 90%;
+    border-bottom-left-radius:  2% 90%;
+    border-bottom-right-radius:  2% 90%;
+}
+
+.hide{
+    display: none;
+
+}
+
+.show {
+    display: block;
+}
+
+
+
+.bookImage{
+    // font-family: monospace
+  padding: 7px;
+  background-image: linear-gradient(to top,rgba(0, 0, 0, 0.76),  transparent 50%,   rgba(235, 232, 232, 0.342,) );
+
+  box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.76);
+  border-top-right-radius:  2% 90%;
+  border-top-left-radius:  2% 90%;
+  border-bottom-left-radius:  2% 90%;
+  border-bottom-right-radius:  2% 90%;
+}
+.bookImage:hover{
+  padding-top:20px;
+  padding-bottom:20px;
+}

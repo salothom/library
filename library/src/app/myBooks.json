@@ -14,7 +14,7 @@
                 "Business"
             ],
             "published": "1936",
-            "coverColor": "red",
+            "coverColor": "darkblue",
             "secondaryColor": "white",
             "opinion": "Own",
             "image": "winfriends.jpeg"
@@ -33,8 +33,8 @@
                 "Texas"
             ],
             "published": "2001",
-            "coverColor": "red",
-            "secondaryColor": "blue",
+            "coverColor": "darkred",
+            "secondaryColor": "cornflowerblue",
             "opinion": "Liked",
             "image": "texasbadgirls.jpeg"
         },
@@ -54,7 +54,7 @@
             ],
             "published": "2009",
             "coverColor": "white",
-            "secondaryColor": "blue",
+            "secondaryColor": "darkslateblue",
             "opinion": "Liked",
             "image": "bolde.jpeg"
         },
@@ -71,8 +71,8 @@
                 "Classic"
             ],
             "published": "13th Century",
-            "coverColor": "red",
-            "secondaryColor": "red",
+            "coverColor": "firebrick",
+            "secondaryColor": "floralwhite",
             "opinion": "Loved",
             "image": "robinhood.jpeg"
         },
@@ -88,7 +88,7 @@
                 "Novel"
             ],
             "published": "1982",
-            "coverColor": "gold",
+            "coverColor": "goldenrod",
             "secondaryColor": "red",
             "opinion": "Liked",
             "image": "deadeye.jpeg"
@@ -123,7 +123,7 @@
                 "Novel"
             ],
             "published": "1986",
-            "coverColor": "peach",
+            "coverColor": "palevioletred",
             "secondaryColor": "purple",
             "opinion": "Liked",
             "image": "fox8.jpeg"
@@ -140,8 +140,8 @@
                 "Novel"
             ],
             "published": "1965",
-            "coverColor": "purple",
-            "secondaryColor": "peach",
+            "coverColor": "rebeccapurple",
+            "secondaryColor": "salmon",
             "opinion": "Liked",
             "image": "godblessyou.jpeg"
         },
@@ -162,8 +162,8 @@
                 "Hysterical Realism"
             ],
             "published": "1982",
-            "coverColor": "blue",
-            "secondaryColor": "navy",
+            "coverColor": "royalblue",
+            "secondaryColor": "saddlebrown",
             "opinion": "Big Oouff",
             "image": "jest.jpeg"
         },
@@ -181,7 +181,7 @@
                 "Biography"
             ],
             "published": "2011",
-            "coverColor": "blue",
+            "coverColor": "skyblue",
             "secondaryColor": "black",
             "opinion": "Liked",
             "image": "supermario.jpeg"
@@ -201,7 +201,7 @@
                 "Travel"
             ],
             "published": "2015",
-            "coverColor": "blue",
+            "coverColor": "teal",
             "secondaryColor": "purple",
             "opinion": "Liked",
             "image": "worldonaplate.jpeg"
@@ -238,8 +238,8 @@
                 "Travel"
             ],
             "published": "2014",
-            "coverColor": "white",
-            "secondaryColor": "green",
+            "coverColor": "wheat",
+            "secondaryColor": "teal",
             "opinion": "Liked",
             "image": "besttoday.jpeg"
         },
@@ -258,7 +258,7 @@
             ],
             "published": "2014",
             "coverColor": "black",
-            "secondaryColor": "white",
+            "secondaryColor": "wheat",
             "opinion": "Liked",
             "image": "paridcocktails.jpeg"
         },
@@ -274,7 +274,7 @@
                 "Novel"
             ],
             "published": "1911",
-            "coverColor": "green",
+            "coverColor": "yellowgreen",
             "secondaryColor": "pink",
             "opinion": "Liked",
             "image": "secretgarden.jpeg"
@@ -349,8 +349,8 @@
                 "Dystopian Fiction"
             ],
             "published": "2014",
-            "coverColor": "navy",
-            "secondaryColor": "white",
+            "coverColor": "mediumblue",
+            "secondaryColor": "linen",
             "opinion": "Liked",
             "image": "stationeleven.jpeg"
         },
@@ -404,7 +404,7 @@
                 "Music"
             ],
             "published": "2014",
-            "coverColor": "pink",
+            "coverColor": "MediumVioletRed",
             "secondaryColor": "navy",
             "opinion": "Loved",
             "image": "rappersdelight.jpeg"
@@ -422,7 +422,7 @@
                 "Romance Novel"
             ],
             "published": "2012",
-            "coverColor": "green",
+            "coverColor": "mediumspringgreen",
             "secondaryColor": "black",
             "opinion": "liked",
             "image": "wolfsimhome.jpeg"
@@ -440,8 +440,8 @@
                 "Empowerment"
             ],
             "published": "2018",
-            "coverColor": "blue",
-            "secondaryColor": "green",
+            "coverColor": "midnightblue",
+            "secondaryColor": "mediumspringgreen",
             "opinion": "Loved",
             "image": "ledgendaryladies.jpeg"
         },
@@ -457,7 +457,7 @@
                 "Science"
             ],
             "published": "2017",
-            "coverColor": "green",
+            "coverColor": "olive",
             "secondaryColor": "silver",
             "opinion": "Loved",
             "image": "scaleofthings.jpeg"
