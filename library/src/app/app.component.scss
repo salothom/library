@@ -20,6 +20,15 @@
     display: block;
 }
 
+.bookSquare{
+    width: 100%;
+}
+.bookSquare:after {
+    content: "";
+    display: block;
+    padding-bottom: 100%;
+  }
+
 
 
 .bookImage{

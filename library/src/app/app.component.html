@@ -1,44 +1,28 @@
 <div style="width: 100%;">
-  <!-- book stack -->
-  <!-- <img src="assets/images/austinbeer.jpeg"/> -->
-  <!-- book flips -->
 
+  
   <div style="width: 70%; float:left; background-color: cadetblue">
-    <div *ngFor="let book of myBooks">
-      <div (click)="toggleBook(book)" style="width: 32%; float:left; padding: 5px">
-        <div class="show" id="{{book.title}}">
-          <img style="width: 100%; " src="assets/images/{{book.image}}" />
-        </div>
-        <div style=" background: burlywood; margin: 5px; padding: 15px;" class="hide" id="{{book.author}}">
-          <div>
-            {{book.title}} written by {{book.author}} 
+      <div *ngFor="let book of myBooks">
+          <div (click)="toggleBook(book)" style="width: 32%; float:left; padding: 5px">
+              <div id="{{book.title}}">
+                  <img style="width: 100%; " src="assets/images/{{book.image}}" />
+              </div>
+              <div class="bookSquare hide"  style=" background: burlywood; margin: 5px; padding: 15px;" id="{{book.author}}">
+                  <div>
+                      {{book.title}} written by {{book.author}}
+                  </div>
+                  <p>
+                      Pages: {{book.pages}}
+                  </p>
+                  <p>Published: {{book.published}}</p>
+                  <p>Genre/Themes: {{book.genre}}</p>
+              </div>
           </div>
-          <p>
-            Pages: {{book.pages}}
-          </p>
-          <p>Published: {{book.published}}</p>
-          <p>Genre/Themes: {{book.genre}}</p>
-
-        </div>
       </div>
-
-    </div>
   </div>
 
   <div style="width: 30%; float:left; background-color: bisque">
-    <div style="margin-left: 5px;" *ngFor="let book of myBooks">
-      <div class="bookstack" [ngStyle]="bookCover(book) " [style.background]="book.coverColor">
-        <div [ngStyle]="bigBook(book)" class="bookImage">
-          <div *ngIf="book.nonFic ">
-            <span>{{book.title}}</span>
-            <span *ngIf="book.nonFic === 'True'"> : </span>
-            <span [style.float]="book.nonFic=== 'False' ? 'right':'unset'"> {{book.author}}</span>
-          </div>
-
-        </div>
-
-      </div>
-    </div>
+    <app-book-stack></app-book-stack>
   </div>
 
 </div>

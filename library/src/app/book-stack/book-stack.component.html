@@ -1,0 +1,13 @@
+<div style="margin-left: 5px;" *ngFor="let book of myBooks">
+    <div class="bookstack" [ngStyle]="bookCover(book) " [style.background]="book.coverColor">
+        <div [ngStyle]="bigBook(book)" class="bookImage">
+            <div *ngIf="book.nonFic ">
+                <span>{{book.title}}</span>
+                <span *ngIf="book.nonFic === 'True'"> : </span>
+                <span [style.float]="book.nonFic=== 'False' ? 'right':'unset'"> {{book.author}}</span>
+            </div>
+
+        </div>
+
+    </div>
+</div>
