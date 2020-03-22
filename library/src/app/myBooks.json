@@ -11,7 +11,7 @@
             "femaleLead": "False",
             "genre": [
                 "Self Help",
-                "Business"
+                "Businesss"
             ],
             "published": "1936",
             "coverColor": "darkblue",
@@ -47,7 +47,7 @@
             "youth": "False",
             "femaleLead": "False",
             "genre": [
-                "Business",
+                "Businesss",
                 "History",
                 "America",
                 "Civil Engineering"
@@ -120,7 +120,7 @@
             "youth": "True",
             "femaleLead": "False",
             "genre": [
-                "Novel"
+                "Novel",""
             ],
             "published": "1986",
             "coverColor": "palevioletred",
@@ -176,7 +176,7 @@
             "youth": "False",
             "femaleLead": "False",
             "genre": [
-                "Busines",
+                "Business",
                 "Gaming",
                 "Biography"
             ],
@@ -233,7 +233,7 @@
             "youth": "False",
             "femaleLead": "False",
             "genre": [
-                "Guildbook",
+                "Guidebook",
                 "Short Stories",
                 "Travel"
             ],
@@ -452,7 +452,7 @@
             "pages": "108",
             "nonFic": "True",
             "youth": "True",
-            "femaleLead": "false",
+            "femaleLead": "False",
             "genre": [
                 "Science"
             ],
@@ -461,6 +461,447 @@
             "secondaryColor": "silver",
             "opinion": "Loved",
             "image": "scaleofthings.jpeg"
+        },
+        {
+            "title": "Belgarath the Sorcerer",
+            "subtitle": "",
+            "author": "David and Leigh Eddings",
+            "pages": "723",
+            "nonFic": "False",
+            "youth": "False",
+            "femaleLead": "False",
+            "genre": [
+                "Fantasy","Magic"
+            ],
+            "published": "1995",
+            "coverColor": "red",
+            "secondaryColor": "orange",
+            "opinion": "Loved",
+            "image": "belgarth.jpeg"
+        },
+        {
+            "title": "Laugh Out Loud Jokes for Kids",
+            "subtitle": "",
+            "author": "Rob Elliott",
+            "pages": "123",
+            "nonFic": "False",
+            "youth": "True",
+            "femaleLead": "False",
+            "genre": [
+                "Jokes","Humour"
+            ],
+            "published": "2010",
+            "coverColor": "red",
+            "secondaryColor": "teal",
+            "opinion": "Liked",
+            "image": "kidsjokes.jpeg"
+        },
+        {
+            "title": "The Best Christmas Pageant Ever",
+            "subtitle": "",
+            "author": "Barbara Robinson",
+            "pages": "80",
+            "nonFic": "False",
+            "youth": "True",
+            "femaleLead": "True",
+            "genre": [
+                "Religion","Holiday"
+            ],
+            "published": "1995",
+            "coverColor": "red",
+            "secondaryColor": "gold",
+            "opinion": "Loved",
+            "image": "bestchristmaspagent.jpeg"
+        },
+        {
+            "title": "The Secrets We Kept",
+            "subtitle": "",
+            "author": "Lara Prescott",
+            "pages": "344",
+            "nonFic": "False",
+            "youth": "False",
+            "femaleLead": "True",
+            "genre": [
+                "Spy Fiction","Historical Fiction"
+            ],
+            "published": "2019",
+            "coverColor": "red",
+            "secondaryColor": "green",
+            "opinion": "Own",
+            "image": "keptsecrets.jpeg"
+        },
+        {
+            "title": "Why We March",
+            "subtitle": "Signs of Protest and Hope",
+            "author": "Voices from the Women's March",
+            "pages": "253",
+            "nonFic": "True",
+            "youth": "False",
+            "femaleLead": "True",
+            "genre": [
+                "Empowerment","History","Femenist","Poly-Sci"
+            ],
+            "published": "2017",
+            "coverColor": "white",
+            "secondaryColor": "pink",
+            "opinion": "Liked",
+            "image": "whymarch.jpeg"
+        },
+        {
+            "title": "The City & The City",
+            "subtitle": "",
+            "author": "China Mieville",
+            "pages": "336",
+            "nonFic": "False",
+            "youth": "False",
+            "femaleLead": "True",
+            "genre": [
+                "True Crime","Science Fiction","Poly-Sci"
+            ],
+            "published": "2017",
+            "coverColor": "white",
+            "secondaryColor": "pink",
+            "opinion": "Liked",
+            "image": ".jpeg"
+        },
+        {
+            "title": "Console Wars",
+            "subtitle": "Sega, Nintendo, And the Battle that Defined a Generation",
+            "author": "Blake J.Harris",
+            "pages": "555",
+            "nonFic": "True",
+            "youth": "False",
+            "femaleLead": "False",
+            "genre": [
+                "Gaming","Businesss"
+            ],
+            "published": "2014",
+            "coverColor": "blue",
+            "secondaryColor": "red",
+            "opinion": "Liked",
+            "image": ".jpeg"
+        },
+        {
+            "title": "Texas Ranger Tales",
+            "subtitle": "Hard-Riding Stories From The Lone Star State",
+            "author": "Mike Cox",
+            "pages": "370",
+            "nonFic": "True",
+            "youth": "False",
+            "femaleLead": "False",
+            "genre": [
+                "Texas","Cowboys"
+            ],
+            "published": "2016",
+            "coverColor": "brown",
+            "secondaryColor": "yellow",
+            "opinion": "Liked",
+            "image": "rangertales.jpeg"
+        },
+        {
+            "title": "Our Band Could Be Your Life",
+            "subtitle": "Scenes From the American Indie Underground 1981-1991",
+            "author": "Michael Azerrad",
+            "pages": "501",
+            "nonFic": "True",
+            "youth": "False",
+            "femaleLead": "False",
+            "genre": [
+                "Music","History"
+            ],
+            "published": "2001",
+            "coverColor": "blue",
+            "secondaryColor": "yellow",
+            "opinion": "Liked",
+            "image": "bandcouldbelife.jpeg"
+        }, {
+            "title": "The Power of One",
+            "subtitle": "",
+            "author": "Bryce Courtenay",
+            "pages": "513",
+            "nonFic": "False",
+            "youth": "False",
+            "femaleLead": "False",
+            "genre": [
+                "Historical Fiction", "Sports", "War Fiction"
+            ],
+            "published": "1989",
+            "coverColor": "white",
+            "secondaryColor": "red",
+            "opinion": "Loved",
+            "image": "powerofone.jpeg"
+        }, {
+            "title": "The Foreigner",
+            "subtitle": "",
+            "author": "Larry Shue",
+            "pages": "82",
+            "nonFic": "False",
+            "youth": "False",
+            "femaleLead": "False",
+            "genre": [
+                "Historical Fiction", "Humor", "Play","Farce"
+            ],
+            "published": "1989",
+            "coverColor": "yellow",
+            "secondaryColor": "black",
+            "opinion": "Loved",
+            "image": "forginer.jpeg"
+        },
+        {
+            "title": "Blood, Sweat, and Pixels",
+            "subtitle": "",
+            "author": "Jason Schreier",
+            "pages": "278",
+            "nonFic": "True",
+            "youth": "False",
+            "femaleLead": "False",
+            "genre": [
+                "Gaming", "Business"
+            ],
+            "published": "2017",
+            "coverColor": "blue",
+            "secondaryColor": "yellow",
+            "opinion": "liked",
+            "image": ".jpeg"
+        },
+        {
+            "title": "Shadow Spinner",
+            "subtitle": "",
+            "author": "Susan Fletcher",
+            "pages": "219",
+            "nonFic": "False",
+            "youth": "False",
+            "femaleLead": "True",
+            "genre": [
+                "Novel"
+            ],
+            "published": "1998",
+            "coverColor": "tan",
+            "secondaryColor": "black",
+            "opinion": "liked",
+            "image": ".jpeg"
+        },
+        {
+            "title": "Zombie Prom",
+            "subtitle": "a Musical",
+            "author": "John Dempsey",
+            "pages": "115",
+            "nonFic": "False",
+            "youth": "False",
+            "femaleLead": "False",
+            "genre": [
+                "Music","Play","Humor"
+            ],
+            "published": "1993",
+            "coverColor": "tan",
+            "secondaryColor": "black",
+            "opinion": "liked",
+            "image": "zombieprom.jpeg"
+        },
+        {
+            "title": "A Man Without A Country",
+            "subtitle": "",
+            "author": "Kurt Vonnegut",
+            "pages": "137",
+            "nonFic": "False",
+            "youth": "False",
+            "femaleLead": "False",
+            "genre": [
+                "Humor","Novel"
+            ],
+            "published": "2005",
+            "coverColor": "brown",
+            "secondaryColor": "black",
+            "opinion": "liked",
+            "image": "mannocountry.jpeg"
+        },
+        {
+            "title": "Welcome to the Monkey House",
+            "subtitle": "",
+            "author": "Kurt Vonnegut",
+            "pages": "137",
+            "nonFic": "False",
+            "youth": "False",
+            "femaleLead": "False",
+            "genre": [
+                "Humor","Novel", "Short Stories"
+            ],
+            "published": "2005",
+            "coverColor": "brown",
+            "secondaryColor": "black",
+            "opinion": "liked",
+            "image": "welcometomonkey.jpeg"
+        },
+        {
+            "title": "Clouds that Look Like Things",
+            "subtitle": "From The Cloud Appreciation Society",
+            "author": "The Cloudspotter's Guide",
+            "pages": "105",
+            "nonFic": "True",
+            "youth": "False",
+            "femaleLead": "False",
+            "genre": [
+                "Science","Guidebook","Clouds"
+            ],
+            "published": "2012",
+            "coverColor": "blue",
+            "secondaryColor": "yellow",
+            "opinion": "Loved",
+            "image": "cloudsshape.jpeg"
+        },
+        {
+            "title": "I Think I Am In Friend-Love With You",
+            "subtitle": "",
+            "author": "Yumi Sakugawa",
+            "pages": "60",
+            "nonFic": "False",
+            "youth": "False",
+            "femaleLead": "False",
+            "genre": [
+                "Novel"
+            ],
+            "published": "2014",
+            "coverColor": "white",
+            "secondaryColor": "black",
+            "opinion": "Loved",
+            "image": "friendlove.jpeg"
+        },
+        {
+            "title": "The Year of Living Biblically",
+            "subtitle": "",
+            "author": "A.J. Jacobs",
+            "pages": "337",
+            "nonFic": "True",
+            "youth": "False",
+            "femaleLead": "False",
+            "genre": [
+                "Religion","Humor"
+            ],
+            "published": "2016",
+            "coverColor": "white",
+            "secondaryColor": "red",
+            "opinion": "Loved",
+            "image": "biblicalliving.jpeg"
+        },
+        {
+            "title": "The Old Farmer's Almanac",
+            "subtitle": "",
+            "author": "Robert B Thomas",
+            "pages": "272",
+            "nonFic": "True",
+            "youth": "False",
+            "femaleLead": "False",
+            "genre": [
+                "Science","Food"
+            ],
+            "published": "2016",
+            "coverColor": "yellow",
+            "secondaryColor": "red",
+            "opinion": "liked",
+            "image": "fameralm.jpeg"
+        },
+        {
+            "title": "Loot",
+            "subtitle": "The Battle Over The Stolen Treasures of The Ancient World",
+            "author": "Sharon Waxman",
+            "pages": "276",
+            "nonFic": "True",
+            "youth": "False",
+            "femaleLead": "False",
+            "genre": [
+                "History","Travel"
+            ],
+            "published": "2008",
+            "coverColor": "white",
+            "secondaryColor": "red",
+            "opinion": "liked",
+            "image": ".jpeg"
+        },
+        {
+            "title": "A Short History of Nearly Everything",
+            "subtitle": "",
+            "author": "Bill Bryson",
+            "pages": "422",
+            "nonFic": "True",
+            "youth": "False",
+            "femaleLead": "False",
+            "genre": [
+                "History","Travel","Science"
+            ],
+            "published": "2003",
+            "coverColor": "white",
+            "secondaryColor": "red",
+            "opinion": "liked",
+            "image": ".jpeg"
+        },
+      
+        {
+            "title": "Our Noise",
+            "subtitle": "The Story of Merge Records",
+            "author": "Cook, McCaughan, & Ballance",
+            "pages": "276",
+            "nonFic": "True",
+            "youth": "False",
+            "femaleLead": "False",
+            "genre": [
+                "Music","Business"
+            ],
+            "published": "2003",
+            "coverColor": "grey",
+            "secondaryColor": "white",
+            "opinion": "liked",
+            "image": "mergerecs.jpeg"
+        },
+        {
+            "title": "Park Avenue Summer",
+            "subtitle": "",
+            "author": "Renee Rosen",
+            "pages": "343",
+            "nonFic": "False",
+            "youth": "False",
+            "femaleLead": "False",
+            "genre": [
+                "Femenist","Business","Empowerment","Historical Fiction"
+            ],
+            "published": "2019",
+            "coverColor": "grey",
+            "secondaryColor": "pink",
+            "opinion": "liked",
+            "image": "parkave.jpeg"
+        },
+        {
+            "title": "Broad Band",
+            "subtitle": "The Untold Story of the Women Who Made the Internet",
+            "author": "Claire L. Evans",
+            "pages": "242",
+            "nonFic": "True",
+            "youth": "False",
+            "femaleLead": "False",
+            "genre": [
+                "Femenist","Business","Empowerment","Science"
+            ],
+            "published": "2018",
+            "coverColor": "grey",
+            "secondaryColor": "green",
+            "opinion": "liked",
+            "image": "broadband.jpeg"
+        },
+        {
+            "title": "The Storied Life of A.J. Fikry",
+            "subtitle": "",
+            "author": "Gabrielle Zezin",
+            "pages": "258",
+            "nonFic": "False",
+            "youth": "False",
+            "femaleLead": "False",
+            "genre": [
+                "Novel"
+            ],
+            "published": "2014",
+            "coverColor": "red",
+            "secondaryColor": "grey",
+            "opinion": "liked",
+            "image": ".jpeg"
         }
     ]
 }
